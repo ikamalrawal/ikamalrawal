@@ -1,8 +1,6 @@
 ### Hi there 👋 <i>Kamal here.</i>
 ####  Hope you are doing good. Thanks for visiting ❤️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikamalrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ikamalrawal" /> </p>
-
 <p align="left"> <a href="https://twitter.com/ikamalrawal" target="blank"><img src="https://img.shields.io/twitter/follow/ikamalrawal?logo=twitter&style=for-the-badge" alt="ikamalrawal" /></a> </p>
 
 
