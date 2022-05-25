@@ -1,4 +1,4 @@
-### Hi there 👋 <i>Kamal here.</i>
+### Hi there 👋 <i>I'm Kamal.</i>
 ####  Hope you are doing good. Thanks for visiting ❤️
 
 <p align="left"> <a href="https://twitter.com/ikamalrawal" target="blank"><img src="https://img.shields.io/twitter/follow/ikamalrawal?logo=twitter&style=for-the-badge" alt="ikamalrawal" /></a> </p>
